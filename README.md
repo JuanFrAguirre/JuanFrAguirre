@@ -7,8 +7,8 @@
 #
 🤓 Also studying C#, SQL Server and more desktop-environment technologies at Uni. (UTN - FRC / FRBA) 📚
 #
-💬 _Feel free to contact me for a project or any work-related reason!_
-🔭 I'm currently looking for the __best opportunities__!
+* 💬 _Feel free to contact me for a project or any work-related reason!_
+* 🔭 I'm currently looking for the __best opportunities__!
 
 <!--
 **JuanFrAguirre/JuanFrAguirre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
