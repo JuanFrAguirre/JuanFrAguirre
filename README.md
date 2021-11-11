@@ -1,6 +1,6 @@
 ## Hi there, I'm Juan 👋
 ### I'm a Front End Software Developer and Teacher!
-### I love to learn and spread any knowledge that I can get my hands on!
+### I love learning and spreading any knowledge that I can get my hands on!
 
 * 💻 I'm currently working as a UI & Front End JS Developer, using React and Angular. ⚡
 
