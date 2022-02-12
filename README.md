@@ -1,5 +1,5 @@
 # Hi there, I'm Juan 👋
----
+
 ## I'm a Front End Software Developer and Teacher!
 ## I love learning and spreading any knowledge that I can get my hands on!
 
