@@ -5,7 +5,7 @@
 ### I'm a Front End Software Developer and Teacher!
 ### I love learning and spreading any knowledge that I can get my hands on!
 
-* 💻 I'm currently working as a UI & Front End JS Developer, using <img src="icons/redux.png" /> and <a href="https://angular.io/" title="Angular"><img src="icons/angular.png" /></a>. ⚡
+* 💻 I'm currently working as a UI & Front End JS Developer, using <img src="icons/redux.png" /> and <img src="icons/angular.png" />. ⚡
 
 * 🤓 Also teaching several courses about Web and Front End Development 📚
 #
