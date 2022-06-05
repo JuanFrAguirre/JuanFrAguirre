@@ -3,8 +3,8 @@
 ### I'm a Front End Software Developer and Teacher!
 ### I love learning and spreading any knowledge that I can get my hands on!
 
- >- 💻 I'm currently working as a UI & Front End JS Developer, using <a target="_blank" href="https://reactjs.org"><img src="icons/react.png" /></a> and <a target="_blank" href="https://nodejs.org/en/"><img width="36" src="icons/node.webp" /></a>
- >- 🤓 Also teaching several courses about Web and Front End Development and managing some Development Teams 📚
+ - 💻 I'm currently working as a **UI & Front End JS Developer**, using <a target="_blank" href="https://reactjs.org"><img src="icons/react.png" /></a> and <a target="_blank" href="https://nodejs.org/en/"><img width="36" src="icons/node.webp" /></a>
+ - 🤓 Also teaching several courses about Web and Front End Development and managing some Development Teams 📚🤝🏼🧠
 
 ---
 
