@@ -3,7 +3,7 @@
 ### I'm a Front End Software Developer and Teacher!
 ### I love learning and spreading any knowledge that I can get my hands on!
 
-#### - 💻 I'm currently working as a UI & Front End JS Developer, using <img src="icons/react.png" /> and <img width="36" src="icons/node.webp" />
+#### - 💻 I'm currently working as a UI & Front End JS Developer, using <a href="https://reactjs.org"><img src="icons/react.png" /></a> and <a href="https://nodejs.org/en/"><img width="36" src="icons/node.webp" /></a>
 #### - 🤓 Also teaching several courses about Web and Front End Development and managing some Development Teams 📚
 
 #
